@@ -14,5 +14,5 @@
 
 * 可以关注我的公众号一起交流学习
 
-![qrcode_for_gh_2a44f8a69577_258](/Users/wuhuaipeng/Downloads/qrcode_for_gh_2a44f8a69577_258.jpg)
+<img src="https://github.com/996Programmer/ProgrammerInterview/blob/master/qrcode_for_gh_2a44f8a69577_258.jpg" style="zoom:50%;" />
 
