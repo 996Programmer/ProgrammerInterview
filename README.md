@@ -8,7 +8,7 @@
 
 * 如果有交流需要，可以添加本人微信一起交流学习
 
-  <img src="https://github.com/996Programmer/ProgrammerInterview/blob/master/WechatIMG1.jpeg" alt="image-20200311114828104" style="zoom:50%;" />
+  <img src="https://github.com/996Programmer/ProgrammerInterview/blob/master/WechatIMG1.jpeg" alt="image-20200311114828104" style="zoom:20%;" />
 
 
 
